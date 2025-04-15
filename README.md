@@ -2,6 +2,8 @@
 
 Template to develop GUI applications based on Python and QT.
 
+**Important note**: The development of this template is currently paused, but it will be resumed during the second semester of 2025.
+
 # Releases
 
 You can find the latest releases [here](https://github.com/CFIS-UFRO/python-qt-development-template/releases).
